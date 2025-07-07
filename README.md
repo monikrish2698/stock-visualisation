@@ -1,2 +1,0 @@
-# stock-visualisation
-streamlit visualisation
