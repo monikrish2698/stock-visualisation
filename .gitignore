@@ -1,0 +1,7 @@
+.stock_visualisation
+
+.pyiceberg.*
+
+__pycache__/
+**/__pycache__/
+*.py[cod]
